@@ -1,4 +1,4 @@
-# Web Scrapping project
+# Web Scraping project
 Web Scraping project of the New York Times article
 
 You can view the article with the following link:
